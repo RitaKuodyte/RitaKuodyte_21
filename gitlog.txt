@@ -1,0 +1,12 @@
+* 507e8c5 paskutinis commitas
+*   e1fcef4 Merge pull request #1 from RitaKuodyte/grupes-numeris
+|\  
+| *   d5793bb master merged into grupes-numeris
+| |\  
+| |/  
+|/|   
+* | a5beeba Pridėta gimimo vieta
+| * c3db694 prideta grupe
+|/  
+* 4d14e43 pridetas gitignore
+* bdb2a7d sukurtas studentas.txt ir pridetas vardas bei pavarde

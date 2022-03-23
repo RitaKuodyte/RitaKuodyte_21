@@ -1,0 +1,326 @@
+    1  git --version
+    2  git --version
+    3  git init
+    4  git status
+    5  git add .
+    6  git status
+    7  git commit -m "added aaa"
+    8  git status
+    9  git status
+   10  git status
+   11  git add .
+   12  git status
+   13  git status
+   14  git commit
+   15  git log
+   16  git commit -m "added bbb"
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "vvv"
+   21  git status
+   22  git --version
+   23  git config --global user.name "Rita"
+   24  git config --global user.email "rita.kuodyte.rk@gmail.com"
+   25  git config --global --list
+   26  git config --global core.editor "code --wait"
+   27  git config --global --list
+   28  git config --global --list
+   29  failas pvz
+   30  mkdir studentai
+   31  cd studentai
+   32  git init
+   33  echo "Jonas Petraitis" >> studentai.dat
+   34  git add studentai.dat
+   35  git commit -m "Added my name to studentai.dat"
+   36  git log
+   37  git status
+   38  git status
+   39  git@github.com:RitaKuodyte/stunning-telegram.git
+   40  git status
+   41  git@github.com:RitaKuodyte/stunning-telegram.git
+   42  git@github.com:RitaKuodyte/stunning-telegram.git
+   43  git clone git@github.com:RitaKuodyte/stunning-telegram.git
+   44  git status
+   45  touch failas
+   46  git add .
+   47  git status
+   48  git status
+   49  cd Naujas
+   50  git config --global --list
+   51  git init
+   52  git status
+   53  git add .
+   54  git add failas
+   55  git commit -m "added text"
+   56  git status
+   57  git push
+   58  git remote add origin git@github.com:RitaKuodyte/stunning-telegram.git
+   59  git push -u origin master
+   60  touch kitas
+   61  git add .
+   62  git commit -m "text"
+   63  git push
+   64  git init
+   65  git remote add origin git@github.com:RitaKuodyte/REPO.git
+   66  git push -u origin master
+   67  git push -u origin master
+   68  echo "# REPO" >> README.md
+   69  git init
+   70  git add README.md
+   71  git commit -m "first commit"
+   72  git branch -M main
+   73  git remote add origin git@github.com:RitaKuodyte/REPO.git
+   74  echo "# REPO" >> README.md
+   75  git init
+   76  git add README.md
+   77  git commit -m "first commit"
+   78  git branch -M main
+   79  git remote add origin git@github.com:RitaKuodyte/REPO.git
+   80  git push -u origin main
+   81  git add .
+   82  git commit -m "lorem ipsum"
+   83  git log
+   84  git push
+   85  echo "# branch" >> README.md
+   86  git init
+   87  git add README.md
+   88  git commit -m "first commit"
+   89  git branch -M main
+   90  git remote add origin git@github.com:RitaKuodyte/branch.git
+   91  git push -u origin main
+   92  git init
+   93  git add .
+   94  git commit -m "first commit"
+   95  git branch -M main
+   96  git remote add origin git@github.com:RitaKuodyte/new-Repo.git
+   97  git push -u origin main
+   98  git status
+   99  git init
+  100  git clone git@github.com:sarunevil/pirmasdarbas.git
+  101  cd automatic-lamp/
+  102  git branch
+  103  git branch index
+  104  git branch
+  105  git switch index
+  106  git add .
+  107  git status
+  108  git add .
+  109  git status
+  110  git commit -m "tekstas"
+  111  git status
+  112  git add .
+  113  git commit -m "abc"
+  114  git status
+  115  git push origin index
+  116  git clone git@github.com:RitaKuodyte/Astrologija.git
+  117  git branch Ritos-saka
+  118  git status
+  119  git commit -m "kazkas"
+  120  git branch
+  121  git branch new
+  122  git checkout new
+  123  code .
+  124  git add .
+  125  git status
+  126  git commit -m "add login"
+  127  git status
+  128  git branch
+  129  git switch master
+  130  git branch
+  131  git merge new
+  132  git log --oneline
+  133  code .
+  134  git switch -c Ritos-saka
+  135  git status
+  136  git add .
+  137  git commit -m "bandymas"
+  138  git status
+  139  git push origin Ritos-saka
+  140  git switch master
+  141  git pull
+  142  git log --oneline
+  143  git clone git@github.com:Jurgitosj/PRAKTIKA.git
+  144  git pull
+  145  git status
+  146  code .
+  147  git status
+  148  git add .
+  149  git commit -m "main"
+  150  git switch master
+  151  git pull
+  152  git merge aptvarkytas_failas
+  153  git status
+  154  git push origin aptvarkytas_failas
+  155  git status
+  156  git push origin master
+  157  git status
+  158  git add .
+  159  git commit -m "pakeistas turinys"
+  160  git pull
+  161  git log --oneline -graph
+  162  git log --oneline --graph
+  163  git shortlog
+  164  git log --oneline --graph
+  165  git clone git@github.com:Jurgitosj/Astrologijos_puslapis.git
+  166  code .
+  167  git pull
+  168  git status
+  169  git add .
+  170  git commit -m "Atnaujintas footeris"
+  171  git push
+  172  git pull
+  173  code .
+  174  git branch -d <feature/footer>
+  175  git branch -d feature/footer
+  176  code .
+  177  git switch -c footer
+  178  git status
+  179  git status
+  180  git status
+  181  git status
+  182  git add .
+  183  git commit -m "Atnaujintas footeris"
+  184  git push
+  185  git push origin footer
+  186   git status
+  187  git branch -d footer
+  188  git branch -D footer
+  189  git pull
+  190  code .
+  191  git fetch
+  192  git pull
+  193  git fetch
+  194  git pull
+  195  code .
+  196  git pull
+  197  git status
+  198  git fetch
+  199  git pull
+  200  git fetch
+  201  git pull
+  202  git code .
+  203  code .
+  204  git fetch
+  205  git pull
+  206  code .
+  207  code .
+  208  git clone https://gitexercises.fracz.com/git/exercises.git
+  209  cd exercises/
+  210  git config user.name "Rita"
+  211  git config user.email "rita@gmail.com"
+  212  ./configure.sh
+  213  git start
+  214  git start master
+  215  git verify
+  216  git start commit-one-file
+  217  #!/usr/bin/env bash
+  218  echo Hello world!
+  219  #!/usr/bin/env bash
+  220  echo Hello world!
+  221  #Komentaras
+  222  nano pirmas.sh
+  223  ls
+  224  bash pirmas.sh
+  225  echo Hello world!
+  226  ./pirmas.sh
+  227  cat pirmas.sh
+  228  cat pirmas.sh
+  229  ./pirmas.sh
+  230  ls
+  231  cat kinta.sh
+  232  cat kinta.sh
+  233  cat kinta.sh
+  234  ./kinta.sh
+  235  cat kinta.sh
+  236  cat kinta.sh
+  237  ./kinta.sh
+  238  cat para.sh
+  239  ./para.sh
+  240  ./para.sh
+  241  ./para.sh Laba diena
+  242  ./kinta.sh
+  243  git fetch
+  244  git pull
+  245  code .
+  246  git status
+  247  git fetch
+  248  git pull
+  249  git fetch
+  250  git fetch
+  251  git pull
+  252  git fetch
+  253  git pull
+  254  git clone https://gitexercises.fracz.com/git/exercises.git
+  255  cd exercises
+  256  git config user.name "Rita"
+  257  git config user.email "lalala@gmail.com"
+  258  ./configure.sh
+  259  git start
+  260  git status
+  261  git start master
+  262  git verify
+  263  git start next
+  264  git status
+  265  git add A.txt
+  266  git add A.txt
+  267  git commit -m "kazkas"
+  268  git verify
+  269  git start next
+  270  git status
+  271  git reset A.txt
+  272  git status
+  273  git commit -m "kazkas"
+  274  git verify
+  275  git start next
+  276  code .
+  277  code .
+  278  git init
+  279  git status
+  280  git add .
+  281  git init
+  282  git status
+  283  git add .
+  284  git commit -m "sukurtas studentas.txt ir pridetas vardas bei pavarde"
+  285  git log
+  286  q
+  287  code .
+  288  git status
+  289  git add .
+  290  git commit -m "pridetas gitignore"
+  291  git remote add origin https://github.com/RitaKuodyte/RitaKuodyte_21.git
+  292  git push
+  293   git push --set-upstream origin master
+  294  git statuss
+  295  git status
+  296  git remote add origin git@github.com:RitaKuodyte/RitaKuodyte_21.git
+  297  git remote set-url orgin ssh:://git@github.com:RitaKuodyte/RitaKuodyte_21.git
+  298  git remote set-url origin ssh:://git@github.com:RitaKuodyte/RitaKuodyte_21.git
+  299  git push
+  300    git push --set-upstream origin master
+  301  git remote set-url origin git@github.com:RitaKuodyte/RitaKuodyte_21.git
+  302   git push --set-upstream origin master
+  303  git switch -c  "grupes-numeris"
+  304  git status
+  305  git add .
+  306  git commit -m "prideta grupe"
+  307  git fetch
+  308  git pull
+  309  git status
+  310  git switch master
+  311  git pull
+  312  git switch grupes-numeris
+  313  git merge master
+  314  git add .
+  315  git commit -m "master merged into grupes-numeris"
+  316  git status
+  317  git push
+  318  git push --set-upstream origin grupes-numeris
+  319  git switch master
+  320  git fetch
+  321  git pull
+  322  git branch -D grupes-numeris
+  323  git status
+  324  git add .
+  325  git commit -m "paskutinis commitas"
+  326  history>history.txt
